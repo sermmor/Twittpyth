@@ -17,7 +17,7 @@ You can put all keys in clavesConstants.py.
 - tweepy
 - [bitlyapi](https://github.com/bitly/bitly-api-python)
 
-# Screenshot
+## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Twittpyth/master/Capture.png)
 
 **IMPORTANT NOTE:** I finished this project in February 2011, and I won't do an update of this anymore.
